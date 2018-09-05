@@ -1,0 +1,14 @@
+{
+    "name": "devdojo/calculator",
+    "description": "na",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "mizanur rahman",
+            "email": "engr.mukul@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
